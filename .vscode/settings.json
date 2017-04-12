@@ -1,0 +1,5 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintPath": "/usr/local/bin/pylint",
+  "python.formatting.autopep8Path": "/usr/local/bin/autopep8"
+}
